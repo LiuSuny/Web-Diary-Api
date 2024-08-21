@@ -1,0 +1,6 @@
+@WebDiaryApi_HostAddress = http://localhost:5221
+
+GET {{WebDiaryApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
